@@ -9,6 +9,6 @@ $cd <<notebook-dir>>
 $jupyter notebook <<mynotebook>>.ipynb
 ````
 ## Contents
-- [Classification exercise using MNIST dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Classification-MNIST.ipynb)
-- [SVM Classificiation using IRIS dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Support%20Vector%20Machine-IRIS.ipynb)
+- [Stochastic Gradient Descent classification using number recognition data - MNIST dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Classification-MNIST.ipynb)
+- [Support Vector Machine classificiation using botanical data - IRIS dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Support%20Vector%20Machine-IRIS.ipynb)
 

@@ -8,5 +8,5 @@ Created based on exercises in ["The Complete Machine Learning Course with Python
 - From the commandline, change directory to the location of the notebook and run `jupyter notebook mynotebook.ipynb`
 
 ## Contents
-- Classification exercise using MNIST data set
+- [Classification exercise using MNIST dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Classification-MNIST.ipynb)
 

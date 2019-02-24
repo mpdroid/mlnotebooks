@@ -10,4 +10,5 @@ $jupyter notebook <<mynotebook>>.ipynb
 ````
 ## Contents
 - [Classification exercise using MNIST dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Classification-MNIST.ipynb)
+- [SVM Classificiation using IRIS dataset](https://github.com/mpdroid/mlnotebooks/blob/master/Support%20Vector%20Machine-IRIS.ipynb)
 

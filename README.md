@@ -6,3 +6,7 @@ Created based on exercises in ["The Complete Machine Learning Course with Python
 ## How to run a Jupyter notebook (macOS)
 - Install Anaconda and Jupyter using instructions available [here](https://docs.anaconda.com/anaconda/install/mac-os/).
 - From the commandline, change directory to the location of the notebook and run `jupyter notebook mynotebook.ipynb`
+
+## Contents
+- Classification exercise using MNIST data set
+

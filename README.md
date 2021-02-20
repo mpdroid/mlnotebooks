@@ -1,5 +1,5 @@
 # mlnotebooks
-My machine learning Jupyter notebooks 
+My practice machine learning Jupyter notebooks from the [Complete Machine Learning Course by Robert Percival and Anthony Ng on Udemy](https://www.udemy.com/course/machine-learning-course-with-python/learn/lecture/16722736#overview).
 
 ### How to run a Jupyter notebook (macOS)
 - Install Anaconda and Jupyter using instructions available [here](https://docs.anaconda.com/anaconda/install/mac-os/).
